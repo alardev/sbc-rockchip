@@ -1,4 +1,4 @@
-module rockpi4c
+module orangepi-5-max
 
 go 1.24.0
 
